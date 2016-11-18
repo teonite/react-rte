@@ -3,3 +3,5 @@ _*
 /assets/dist
 /lib
 /node_modules
+
+.idea/
